@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/musicimg">
+        <file>files.png</file>
+        <file>ashbin.png</file>
+        <file>home.png</file>
+        <file>last.png</file>
+        <file>next.png</file>
+        <file>pause.png</file>
+        <file>randomplay.png</file>
+        <file>repeat.png</file>
+        <file>singlecycle.png</file>
+        <file>start.png</file>
+        <file>volume.png</file>
+        <file>cover.png</file>
+    </qresource>
+</RCC>

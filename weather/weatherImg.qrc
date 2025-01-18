@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>img/0@2x.png</file>
+        <file>img/1@2x.png</file>
+        <file>img/2@2x.png</file>
+        <file>img/3@2x.png</file>
+        <file>img/4@2x.png</file>
+        <file>img/5@2x.png</file>
+        <file>img/6@2x.png</file>
+        <file>img/7@2x.png</file>
+        <file>img/8@2x.png</file>
+        <file>img/9@2x.png</file>
+        <file>img/10@2x.png</file>
+        <file>img/11@2x.png</file>
+        <file>img/12@2x.png</file>
+        <file>img/13@2x.png</file>
+        <file>img/14@2x.png</file>
+        <file>img/15@2x.png</file>
+        <file>img/16@2x.png</file>
+        <file>img/17@2x.png</file>
+        <file>img/18@2x.png</file>
+        <file>img/19@2x.png</file>
+        <file>img/20@2x.png</file>
+        <file>img/21@2x.png</file>
+        <file>img/22@2x.png</file>
+        <file>img/23@2x.png</file>
+        <file>img/24@2x.png</file>
+        <file>img/25@2x.png</file>
+        <file>img/26@2x.png</file>
+        <file>img/27@2x.png</file>
+        <file>img/28@2x.png</file>
+        <file>img/29@2x.png</file>
+        <file>img/30@2x.png</file>
+        <file>img/31@2x.png</file>
+        <file>img/32@2x.png</file>
+        <file>img/33@2x.png</file>
+        <file>img/34@2x.png</file>
+        <file>img/35@2x.png</file>
+        <file>img/36@2x.png</file>
+        <file>img/37@2x.png</file>
+        <file>img/38@2x.png</file>
+        <file>img/99@2x.png</file>
+    </qresource>
+</RCC>

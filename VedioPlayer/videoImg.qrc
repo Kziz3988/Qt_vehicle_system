@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>start.png</file>
+        <file>pause.png</file>
+        <file>volume.png</file>
+        <file>kuaijin.png</file>
+        <file>kuaitui.png</file>
+        <file>home.png</file>
+        <file>files.png</file>
+        <file>ashbin.png</file>
+        <file>full.png</file>
+    </qresource>
+</RCC>

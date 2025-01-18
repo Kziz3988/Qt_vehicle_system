@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/crop.png</file>
+        <file>Icons/openfile.png</file>
+        <file>Icons/paintblack.png</file>
+        <file>Icons/redo.png</file>
+        <file>Icons/undo.png</file>
+ 	<file>Icons/rotateleft.png</file>
+	<file>Icons/rotateright.png</file>
+	<file>Icons/zoomin.png</file>
+	<file>Icons/zoomout.png</file>
+        <file>Icons/save.png</file>
+	<file>Icons/zoomtowindow.png</file>
+	<file>Icons/left.png</file>
+	<file>Icons/right.png</file>
+	<file>Icons/home.png</file>
+    </qresource>
+</RCC>

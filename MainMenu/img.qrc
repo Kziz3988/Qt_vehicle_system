@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>communication.png</file>
+        <file>explorer.png</file>
+        <file>image.png</file>
+        <file>music.png</file>
+        <file>video.png</file>
+        <file>weather.png</file>
+        <file>R-C.jpg</file>
+    </qresource>
+</RCC>
